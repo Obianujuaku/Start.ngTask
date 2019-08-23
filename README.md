@@ -1,6 +1,6 @@
 #my project submission links
 
-Flutterwave link: htps://twitter.com/Ada_Mummyya/status/1164941899280596992?s=19
+Flutterwave link: https://twitter.com/Ada_Mummyya/status/1164941899280596992?s=19
 
 Lucid link: https://lucid.blog/obianujuiloanya/post/1566577885
 
